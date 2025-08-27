@@ -1,10 +1,6 @@
 
 # Neural Differential Models
 
-Experiments and implementations of **Neural Ordinary Differential Equations (Neural ODEs)** and related frameworks, including **neural flows**, **trajectory forecasting**, and **neural operators for PDEs**.  
-This repository accompanies ongoing research on learning **continuous-time dynamics** with deep learning methods.
-
----
 
 ## 📌 Motivation
 Differential equations provide a natural framework for modeling continuous dynamics. Neural ODEs and their extensions (e.g., flows, social ODEs, neural operators) unify deep learning with dynamical systems and offer new approaches for tasks such as:
