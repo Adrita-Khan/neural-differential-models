@@ -58,6 +58,8 @@ pip install -r requirements.txt
 6. [Modeling Trajectories with Neural Ordinary Differential Equations (ECCV 2022)](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820211.pdf)  
 7. [Neural Flows: Efficient Alternative to Neural ODEs (IJCAI 2021)](https://www.ijcai.org/proceedings/2021/0207.pdf)  
 8. [Neural Controlled Differential Equations (JMLR 2023)](https://www.jmlr.org/papers/volume24/21-1524/21-1524.pdf)  
+9. [Neural Ordinary Differential Equations — Rethinking Architecture (Medium)](https://medium.com/@justygwen/neural-ordinary-differential-equations-neural-odes-rethinking-architecture-272a72100ebc)  
+10. [Hybrid Models: Combining Neural ODEs with Discrete Layers (Medium)](https://medium.com/@justygwen/hybrid-models-combining-neural-odes-with-discrete-layers-319d4ac05430)  
 
 ---
 
