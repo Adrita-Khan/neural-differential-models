@@ -76,9 +76,3 @@ Contributions are welcome! If you have suggestions, bug fixes, or new experiment
 
 This project is released under the MIT License.
 
-```
-
----
-
-Would you like me to also add a **visual diagram** (e.g., flow of how Neural ODEs work) in the README, so the repo looks more engaging for visitors?
-```
