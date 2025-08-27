@@ -1,4 +1,3 @@
-# neural-differential-models
 
 # Neural Differential Models
 
