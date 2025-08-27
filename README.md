@@ -32,7 +32,7 @@ neural-differential-models/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.9+  
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📖 References
+## References
 
 1. [An Introduction to Neural Ordinary Differential Equations (TFG Thesis)](https://diposit.ub.edu/dspace/bitstream/2445/208621/2/tfg_baldillou_salse_pau.pdf)  
 2. [Understanding Neural ODEs (Blog)](https://jontysinai.github.io/jekyll/update/2019/01/18/understanding-neural-odes.html)  
@@ -63,13 +63,13 @@ pip install -r requirements.txt
 
 ---
 
-## ✨ Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions, bug fixes, or new experiments, feel free to open an issue or submit a pull request.
 
 ---
 
-## 📜 License
+## License
 
 This project is released under the MIT License.
 
