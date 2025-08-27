@@ -2,7 +2,7 @@
 # Neural Differential Models
 
 
-## 📌 Motivation
+## Motivation
 Differential equations provide a natural framework for modeling continuous dynamics. Neural ODEs and their extensions (e.g., flows, social ODEs, neural operators) unify deep learning with dynamical systems and offer new approaches for tasks such as:
 - Modeling time series and trajectories  
 - Multi-agent forecasting  
@@ -37,7 +37,6 @@ neural-differential-models/
 ### Prerequisites
 - Python 3.9+  
 - PyTorch >= 1.12  
-- [torchdiffeq](https://github.com/rtqichen/torchdiffeq)  
 - Other dependencies listed in `requirements.txt`  
 
 ### Installation
