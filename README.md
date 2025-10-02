@@ -61,15 +61,17 @@ pip install -r requirements.txt
 9. [Neural Ordinary Differential Equations — Rethinking Architecture (Medium)](https://medium.com/@justygwen/neural-ordinary-differential-equations-neural-odes-rethinking-architecture-272a72100ebc)  
 10. [Hybrid Models: Combining Neural ODEs with Discrete Layers (Medium)](https://medium.com/@justygwen/hybrid-models-combining-neural-odes-with-discrete-layers-319d4ac05430)  
 
----
-
-## Contributing
-
-Contributions are welcome! If you have suggestions, bug fixes, or new experiments, feel free to open an issue or submit a pull request.
 
 ---
 
 ## License
 
 This project is released under the MIT License.
+
+---
+
+## Contact
+
+**Adrita Khan**  
+[Email](mailto:adrita.khan.official@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adrita-khan) | [Twitter](https://x.com/Adrita_)
 
